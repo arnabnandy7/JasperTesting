@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<jdbcDataAdapter class="net.sf.jasperreports.data.jdbc.JdbcDataAdapterImpl"><name>PostgresSQL</name><driver>org.postgresql.Driver</driver><username>system</username><password>system</password><savePassword>true</savePassword><url>jdbc:postgresql://localhost:5432/system</url><database></database><serverAddress></serverAddress><classpath>C:\Program Files\Apache Software Foundation\apache-tomcat-8.0.32\lib\postgresql-42.2.5.jar</classpath></jdbcDataAdapter>
